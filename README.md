@@ -57,10 +57,10 @@
     <td>
       <img height="195px" align="right" alt="Ainswrg's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ainswrg&theme=algolia&layout=compact" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="Ainswrg's Github Languages" src="https://github-readme-stats.vercel.app/api?username=Ainswrg&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" />
-    </td>
   </tr>
+  <td>
+    <img height="195px" align="bottom" alt="Ainswrg's Github Languages" src="https://github-readme-stats.vercel.app/api?username=Ainswrg&theme=algolia&layout=compact&show_icons=true&count_private=true" />
+  </td>
 </table>
 
 

@@ -5,7 +5,8 @@
 ### 🤝 Connect with me:
 
 [<img alt="Ainswrg | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Ainswrg | Telegramm" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img alt="Ainswrg | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img alt="Ainswrg | WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />][whatsapp]
 
 
 ---
@@ -65,3 +66,4 @@
 
 [linkedin]: https://linkedin.com/in/YauhenKavalchuk
 [telegram]: https://t.me/jas1anD
+[whatsapp]: https://api.whatsapp.com/send?phone=89328634812

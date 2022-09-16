@@ -64,6 +64,6 @@
 </table>
 
 
-[linkedin]: https://linkedin.com/in/YauhenKavalchuk
+[linkedin]: https://www.linkedin.com/in/jaslandaulenov/
 [telegram]: https://t.me/jas1anD
 [whatsapp]: https://api.whatsapp.com/send?phone=89328634812

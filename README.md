@@ -40,7 +40,7 @@
 
 ### 🚀 Badges:
 
-<!-- [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAinswrg&logo=leetcode&logoColor=yellow)](https://leetcode.com/Ainswrg/) -->
+[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAinswrg&logo=leetcode&logoColor=yellow)](https://leetcode.com/Ainswrg/)
 
 [<img alt="codewars" width="60%" align="center" src="https://www.codewars.com/users/Ainswrg/badges/large" />][codewars]
 
